@@ -1,0 +1,4 @@
+baseURL = ''https://d4yt1m3.github.io/photography/''
+locale = 'en-us'
+title = 'A test'
+theme = "gallery"
