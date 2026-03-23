@@ -1,9 +1,9 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: 一个普普通通的个人摄影网站
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: d4yt1m3's Photos
 resources:
-  - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
+  - src: home.jpeg
     params:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:
